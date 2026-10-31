@@ -1,0 +1,29 @@
+*.htm linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.uvprojx linguist-detectable=false
+*.uvoptx linguist-detectable=false
+
+
+*.axf linguist-detectable=false
+*.hex linguist-detectable=false
+*.bin linguist-detectable=false
+*.o linguist-detectable=false
+*.d linguist-detectable=false
+*.map linguist-detectable=false
+*.uvgui* linguist-detectable=false
+Objects/* linguist-detectable=false
+Listings/* linguist-detectable=false
+
+
+*.log linguist-detectable=false
+JLinkLog.txt linguist-detectable=false
+
+
+Makefile linguist-detectable=false
+
+
+*.c linguist-language=C
+*.h linguist-language=C
+*.cpp linguist-language=C++
+*.s linguist-language=Assembly
